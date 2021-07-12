@@ -38,4 +38,4 @@ I'm philipphecht, a ** Cloud and Software Architect ** living on this beautiful 
   
 ## Stats
 
-![philipphecht's github stats](https://github-readme-stats.vercel.app/api?username=philipphecht&show_icons=true&hide_border=false&theme=cobalt&count_private=true&hide_title=false)
+![philipphecht's github stats](https://github-readme-stats.vercel.app/api?username=philipphecht&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
