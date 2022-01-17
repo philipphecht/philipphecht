@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 ## About Me
 
-I'm philipphecht, a ** Cloud and Software Architect ** living on this beautiful Earth.
+I'm philipphecht, a ** Cloud/Software/Blockchain Architect ** living on this beautiful Earth.
 
  
 ## Languages and Tools
