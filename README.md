@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Philipp Hecht  
 
-iamphilpike.sol
+philpike.sol
 
 <!--
 **philipphecht/philipphecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
