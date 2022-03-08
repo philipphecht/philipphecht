@@ -42,4 +42,4 @@ I'm philipphecht, a ** Cloud/Software/Blockchain Architect ** living on this bea
   
 ## Stats
 
-![philipphecht's github stats](https://github-readme-stats.vercel.app/api?username=philipphecht&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
+![philipphecht's github stats](https://github-readme-stats.vercel.app/api?username=philipphecht&show_icons=true&hide_border=false&theme=white&count_private=true&hide_title=false)
