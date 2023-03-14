@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Philipp Hecht  
-
-philpike.sol
+### Hi there 👋 I'm Philipp H.
 
 <!--
 **philipphecht/philipphecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
